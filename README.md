@@ -1,3 +1,6 @@
-<h1 align="center">Hey, guys! 👋</h1>
+<div>
 
-<h3 align="center">Welcome to my page!</h3>
+  <h1 align="center">Hey, guys! 👋</h1>
+
+  <h3 align="center" style="margin-top: 200px;">Welcome to my page!</h3>
+</div>
