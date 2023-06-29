@@ -1,1 +1,1 @@
-<div align="center">Hey, guys! 👋</div>
+<h1 align="center">Hey, guys! 👋</h1>
