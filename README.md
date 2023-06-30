@@ -6,10 +6,9 @@
   <p align="center">I'm Jarno. <br/> Open to collaborating on interesting and innovative projects.
   </p>
 
-  <div>
+  
     [![Twitter](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fyour_twitter_handle)](https://twitter.com/your_twitter_handle)
 
-  </div>
 
 
 </div>
