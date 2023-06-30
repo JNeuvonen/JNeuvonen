@@ -7,6 +7,8 @@
         I am a software developer from Helsinki. In my free time, I like to do sports and hack fun little projects.<br>
         Open for collaboration on interesting ideas
     </i><br>
+    <br>
+    <br>
     <a href="https://www.linkedin.com/in/jneuv">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
