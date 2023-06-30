@@ -43,7 +43,7 @@
 </div> 
 
 
-
+<h1 align="center">Activity</h1> 
 <p align="center">
   <a href="https://github.com/jneuvonen">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jneuvonen&theme=transparent" />
