@@ -4,5 +4,5 @@
 
   <h4 align="center" style="margin-top: 200px;">Welcome to my page!</h4>
 
-  <p>I'm Jarno.</p>
+  <p align="center">I'm Jarno.</p>
 </div>
