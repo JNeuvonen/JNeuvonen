@@ -13,7 +13,7 @@
     <a href="mailto:neuvonenjarno@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.kaggle.com/Alasin1">
+    <a href="https://www.kaggle.com/jakezor">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
     <a href="https://leetcode.com/jneuvonen">
