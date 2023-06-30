@@ -59,11 +59,5 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/jneuvonen">
-    <img src="https://komarev.com/ghpvc/?username=jneuvonen&color=blue&style=flat)" />
-  </a>
-</p>
 <!--
 
