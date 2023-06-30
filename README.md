@@ -7,16 +7,16 @@
         TODO<br>
         TODO<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/wervlad">
+    <a href="https://www.linkedin.com/in/jneuv">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:wervlad1@gmail.com">
+    <a href="mailto:neuvonenjarno@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.kaggle.com/wervlad">
+    <a href="https://www.kaggle.com/Alasin1">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
-    <a href="https://leetcode.com/wervlad">
+    <a href="https://leetcode.com/jneuvonen">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
