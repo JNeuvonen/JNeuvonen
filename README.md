@@ -4,7 +4,8 @@
     <b>Nice to meet you!</b><br><br>
     <i>
         I'm Jarno.<br>
-        I am a full-stack developer from Helsinki, but I also like to dabble in ML<br>
+        I am a software developer from Helsinki. In my free time, I like to do sports and hack fun little projects.<br>
+        Open for collaboration on interesting ideas
     </i><br>
     <a href="https://www.linkedin.com/in/jneuv">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
