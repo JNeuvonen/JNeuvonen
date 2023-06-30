@@ -11,9 +11,7 @@
 
 
   <p align="center">I'm Jarno.
-    &nbsp;
-
-    <span>Test</span>
   </p>
+  <p align="center">Open to collaborating on interesting and innovative projects.</p>
 
 </div>
