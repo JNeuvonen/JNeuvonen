@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Nice to meet you!</b><br><br>
@@ -55,14 +55,14 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jneuvonen&theme=transparent" />
   </a>
   <a href="https://github.com/jneuvonen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jneuvonen&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  <a href="https://github.com/jneuvonen">
+    <img src="https://komarev.com/ghpvc/?username=jneuvonen&color=blue&style=flat)" />
   </a>
 </p>
 <!--
