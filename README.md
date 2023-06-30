@@ -8,7 +8,7 @@
 
 
  
-  <p align="center">
+  <div align="center">
 
 
 
@@ -19,6 +19,6 @@
 
 
 
-</p>
+</div>
 
    
