@@ -20,7 +20,7 @@
 </p>
 
 
-<details>
+
 <p align="center">
   <a href="https://github.com/jneuvonen">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jneuvonen&theme=transparent" />
@@ -32,7 +32,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jneuvonen&theme=transparent" />
   </a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/jneuvonen">
