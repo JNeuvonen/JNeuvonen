@@ -5,7 +5,7 @@
     <i>
         I'm Jarno.<br>
         I am a software developer from Helsinki. In my free time, I like to do sports and hack fun little projects.<br>
-        Open for collaboration on interesting ideas
+        Open for collaboration on interesting projects
     </i><br>
     <br>
     <a href="https://www.linkedin.com/in/jneuv">
