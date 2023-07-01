@@ -7,7 +7,7 @@
         I am a software developer from Helsinki. My main focus is on full-stack development using Next, React, AWS, and Node, but I like to dabble in ML and C++ stuff as well. In my free time, I like to do sports and hack fun little projects.<br><br>
         
         Open for collaboration on interesting projects
-    </i>
+    </i><br>
     <br>
     <a href="https://www.linkedin.com/in/jneuv">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
