@@ -5,7 +5,7 @@
         I'm Jarno.<br>
         I am a software developer from Helsinki. My main focus is on full-stack development using Next, React, AWS, and Node, but I like to dabble in ML and C++ stuff as well. In my free time, I like to do sports and hack fun little projects.<br><br>
         <b>For employers & HR tasks</b><br>
-        If you are hiring for full-stack web positions, for the best use of your time, you should start with the Kaupax repo. If you are hiring for data or devops related positions, for the best use of your time, you should start with the linear-regression-bot repo.<br><br>
+        If you are hiring for full-stack web positions, for the best use of your time, you should start with the Kaupax repo. If you are hiring for data or devops related positions, you should start with the linear-regression-bot repo.<br><br>
         Open for collaboration on interesting projects
     </i><br>
     <br>
