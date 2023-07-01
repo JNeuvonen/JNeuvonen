@@ -1,13 +1,13 @@
-<h1 align="center">Hi, nice to meet you! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
+    <b>Nice to meet you!</b><br><br>
     <i>
         I'm Jarno.<br>
         I am a software developer from Helsinki. My main focus is on full-stack development using Next, React, AWS, and Node, but I like to dabble in ML and C++ stuff as well. In my free time, I like to do sports and hack fun little projects.<br><br>
         <b>For employers & HR tasks</b><br>
-        If you are hiring for full-stack web positions, for the best use of your time, you should start with the Kaupax repo. If you are hiring for data or devops related positions, you should start with the linear-regression-bot repo.<br><br>
-
-    Open for collaboration on interesting projects
+        If you are hiring for full-stack web positions, you should check out the Kaupax repo. If you are hiring for data or devops related positions, you should start with the linear-regression-bot repo.<br><br>
+        Open for collaboration on interesting projects
     </i><br>
     <br>
     <a href="https://www.linkedin.com/in/jneuv">
